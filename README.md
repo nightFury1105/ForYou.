@@ -1,4 +1,4 @@
-7# How to Use (If you have a PC)
+# How to Use (If you have a PC)
 1.Install Python (version 3.6+ recommended).
 2.Clone or download this repo or just copy the code from "Python.py" file ABOVE ☝️.
 3.Open a terminal or Python IDE and run. 
